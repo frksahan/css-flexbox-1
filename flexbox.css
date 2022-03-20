@@ -26,15 +26,15 @@ h1 {
 }
 
 #flexstart {
-    justify-content: flex-start;
+    align-items: flex-start;
 }
 
 #flexend {
-    justify-content: flex-end;
+    align-items: flex-end;
 }
 
 #center {
-    justify-content: center;
+    align-items: center;
 }
 
 #spacearound {
